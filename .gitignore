@@ -39,3 +39,4 @@ vignettes/*.pdf
 listings.csv
 reviews.csv
 key_phrases.csv
+.Rproj.user
